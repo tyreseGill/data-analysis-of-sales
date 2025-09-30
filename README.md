@@ -33,6 +33,7 @@ This project analyzes real-world data obtained from [Kaggle](https://www.kaggle.
 
 ### If You're a Non-Programmer...
 a. If you want to just view the code and its associated output, open up `main.ipynb`.
+
 b. Otherwise, if you want to run the code yourself, you can do so via [Google Collab](https://colab.research.google.com/github/tyreseGill/data-analysis-of-sales/blob/main/main.ipynb).
 
 ## Repository Structure
