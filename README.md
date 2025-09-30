@@ -32,9 +32,9 @@ This project analyzes real-world data obtained from [Kaggle](https://www.kaggle.
 7. Run `python ./main.py` and go through the data analytics displayed.
 
 ### If You're a Non-Programmer...
-a. If you want to just view the code and its associated output, open up `main.ipynb`.
+a. If you want to just view the code and its associated output, click on the `main.ipynb` file listed above.
 
-b. Otherwise, if you want to run the code yourself, you can do so via [Google Collab](https://colab.research.google.com/github/tyreseGill/data-analysis-of-sales/blob/main/main.ipynb).
+b. Otherwise, if you want to run the code yourself, you can do so via [Google Collab](https://colab.research.google.com/github/tyreseGill/data-analysis-of-sales/blob/main/main.ipynb) (NOTE: You will need to be signed into a Google account to run).
 
 ## Repository Structure
 ```
